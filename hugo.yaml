@@ -1,0 +1,33 @@
+baseURL: "https://canportakal.github.io/"
+languageCode: en-us
+title: "Can Portakal"
+theme: "PaperMod"
+
+params:
+  homeInfoParams:
+    Title: "Can Portakal"
+    Content: "Welcome! I am a senior undergraduate economics student at Boğaziçi University, Turkey. I am interested in science, art and mathematics, housed in Economics."
+  
+  socialIcons:
+    - name: github
+      url: "https://github.com/canportakal"
+    - name: email
+      url: "mailto:canportakal35@gmail.com"
+
+  showReadingTime: true
+  showShareButtons: false
+
+menu:
+  main:
+    - name: "About"
+      url: /about/
+      weight: 1
+    - name: "Notes"
+      url: /notes/
+      weight: 2
+    - name: "Writing"
+      url: /writing/
+      weight: 3
+    - name: "Photography"
+      url: /photography/
+      weight: 4
