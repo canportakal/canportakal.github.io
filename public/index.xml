@@ -6,6 +6,21 @@
     <description>Recent content on Can Portakal</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 12 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Graduate Econometrics</title>
+      <link>http://localhost:1313/notes/econometrics/</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/econometrics/</guid>
+      <description>Notes covering OLS, IV, GMM, Time-Series, Forecasting, panel data methods and qualitative models.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>about</description>
+    </item>
   </channel>
 </rss>
