@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Notes on Can Portakal</title>
-    <link>http://localhost:1313/notes/</link>
+    <link>https://canportakal.github.io/notes/</link>
     <description>Recent content in Notes on Can Portakal</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Jun 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/notes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://canportakal.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Graduate Econometrics</title>
-      <link>http://localhost:1313/notes/econometrics/</link>
+      <link>https://canportakal.github.io/notes/econometrics/</link>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/econometrics/</guid>
+      <guid>https://canportakal.github.io/notes/econometrics/</guid>
       <description>Notes covering OLS, IV, GMM, Time-Series, Forecasting, panel data methods and qualitative models.</description>
     </item>
   </channel>
