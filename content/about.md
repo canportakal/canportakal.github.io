@@ -1,21 +1,23 @@
 ---
 title: "About"
-layout: "page"
 url: /about/
-summary: about
 ---
 
-I am a senior economics student at Boğaziçi University, Istanbul, and an incoming MA student in Economics at Central European University (CEU), Vienna, where I will follow a research (pre-Phd) track.
+<div class="full-width-banner">
+  <img id="parallax-img" src="/images/miniature.jpeg">
+</div>
+<p style="font-size:0.75em; color:gray; margin-top:-30px; margin-bottom:30px;">
+  <em>Islamic scholars and scientists from the middle-age, miniature by my mother, 2021</em>
+</p>
 
-My research interests lie at the intersection of political economy, institutions, and inequality. I am drawn to questions about how institutional structures and individual heterogeneities shape distributional outcomes and long-run development. 
+I am a senior economics student at Bogazici University, Istanbul, and an incoming MA student in Economics at Central European University (CEU), Vienna.
 
-I have completed graduate-level coursework in econometrics, game theory, decision analysis, and Bayesian methods. My technical notes from these courses are available in the Notes section.
+My interests in economics lie at the intersection of behavioural economics, decision making and political economy.
 
-Outside of economics, I am a middle-distance runner and am interested in photography and literature. 
+With a background of completed graduate-level coursework in econometrics, macro and micro theory, game theory, decision analysis, and Bayesian methods, I am enthusiastic to learn more and contribute meaningfully to academic and intellectual discussions, somewhere in near future!
 
+My technical notes from these advanced courses are available in the [Notes](/notes/) section.
 
+Outside of academic interests, I am a middle-distance track runner and also am interested in literature and photography.
 
-
-
-
-
+I occasionally write short stories and poems. You can find them in the [Writing](/writing/) section.

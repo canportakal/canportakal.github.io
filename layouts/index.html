@@ -1,9 +1,13 @@
 {{ define "main" }}
 <div style="display:flex; gap:40px; align-items:flex-start; padding:40px 0;">
   <img src="/images/avatar.png" style="width:260px; flex-shrink:0; border-radius:4px;">
-  <div>
+  <div style="line-height:1.7;">
     <h1 style="margin-top:0;">Can Portakal</h1>
-    {{ .Content }}
+    <style>
+      .home-content p { margin-bottom: 20px; }
+      .home-content a { text-decoration: underline; }
+    </style>
+    <div class="home-content">{{ .Content }}</div>
   </div>
 </div>
 {{ end }}

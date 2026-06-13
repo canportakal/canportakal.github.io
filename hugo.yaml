@@ -3,12 +3,19 @@ languageCode: en-us
 title: "Can Portakal"
 theme: "PaperMod"
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+
 params:
   socialIcons:
     - name: github
       url: "https://github.com/canportakal"
     - name: email
       url: "mailto:canportakal35@gmail.com"
+     
 
 menu:
   main:

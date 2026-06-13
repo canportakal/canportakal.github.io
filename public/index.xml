@@ -20,7 +20,15 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>about</description>
+      <description>&lt;div class=&#34;full-width-banner&#34;&gt;
+  &lt;img id=&#34;parallax-img&#34; src=&#34;http://localhost:1313/images/miniature.jpeg&#34;&gt;
+&lt;/div&gt;
+&lt;p style=&#34;font-size:0.75em; color:gray; margin-top:-30px; margin-bottom:30px;&#34;&gt;
+  &lt;em&gt;Islamic scholars and scientists from the middle-age, miniature by my mother, 2021&lt;/em&gt;
+&lt;/p&gt;
+&lt;p&gt;I am a senior economics student at Bogazici University, Istanbul, and an incoming MA student in Economics at Central European University (CEU), Vienna.&lt;/p&gt;
+&lt;p&gt;My interests in economics lie at the intersection of behavioural economics, decision making and political economy.&lt;/p&gt;
+&lt;p&gt;With a background of completed graduate-level coursework in econometrics, macro and micro theory, game theory, decision analysis, and Bayesian methods, I am enthusiastic to learn more and contribute meaningfully to academic and intellectual discussions, somewhere in near future!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
