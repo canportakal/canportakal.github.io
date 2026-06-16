@@ -1,5 +1,5 @@
 ---
-title: "Graduate Econometrics"
+title: "EC532: Econometrics II"
 date: 2026-06-12
 summary: "Notes covering OLS, IV, GMM, Time-Series, Forecasting, panel data methods and qualitative models."
 ---

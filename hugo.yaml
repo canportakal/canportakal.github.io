@@ -10,11 +10,15 @@ markup:
 
 
 params:
-  socialIcons:
+    socialIcons:
     - name: github
       url: "https://github.com/canportakal"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/can-portakal-6b86651b5/"
     - name: email
       url: "mailto:canportakal35@gmail.com"
+    - name: rss
+      url: "https://YOUR-SUBSTACK.substack.com"
      
 
 menu:
