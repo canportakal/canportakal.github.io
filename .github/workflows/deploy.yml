@@ -20,10 +20,10 @@ jobs:
         with:
           hugo-version: "latest"
           extended: true
+      - run: hugo --minify
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
-      - run: hugo --minify
 
   deploy:
     needs: build
@@ -34,4 +34,3 @@ jobs:
     steps:
       - uses: actions/deploy-pages@v4
         id: deployment
-
